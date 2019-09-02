@@ -1,4 +1,15 @@
 h1{
-	
+	font-family: 'sans-serif';
 	text-align: center;
+}
+
+.container{
+	background-color:white;
+}
+
+.box{
+	height:40px;
+	width:30%;
+	background-color:gray;
+	border: 2px solid black;
 }
