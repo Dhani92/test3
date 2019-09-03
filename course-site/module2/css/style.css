@@ -29,6 +29,7 @@ p{
 }
 
 #chicken{
+	position: relative;
 	float: right;
 	background-color: pink;
 	font-weight:bold;
@@ -38,6 +39,7 @@ p{
 
 }
 #beef{
+	position: relative;
 	background-color: red;
 	float: right;
 	font-weight:bold;
@@ -47,6 +49,7 @@ p{
 
 }
 #sushi{
+	position: relative;
 	background-color: orange;
 	float: right;
 	font-weight:bold;
